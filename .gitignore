@@ -1,0 +1,9 @@
+# Dist
+dist/
+index.html
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
